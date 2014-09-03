@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files of files.
 Creating a new brach is quick and simple.
 test for --no-ff
+issue fixed
